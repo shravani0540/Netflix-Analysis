@@ -94,7 +94,7 @@ streamlit run app.py
 
 ### Filters
 
-![Filters](screenshots/filter.png)
+![Filters](screenshots/Filter.png)
 
 ### Genre Analysis
 
