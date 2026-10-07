@@ -1,8 +1,13 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+
 # 🎬 Netflix Movies & TV Shows Analysis Dashboard
 
 An interactive Netflix Data Analysis Dashboard built using Python and Streamlit. This project provides insights into Netflix Movies and TV Shows through visualizations, filters, and search functionality.
 
 ---
+
 
 ## 🚀 Features
 
@@ -40,6 +45,18 @@ An interactive Netflix Data Analysis Dashboard built using Python and Streamlit.
 - Plotly
 
 ---
+## 📊 Dataset
+
+Dataset: Netflix Movies and TV Shows Dataset
+
+Contains:
+- Title
+- Type
+- Release Year
+- Country
+- Rating
+- Genre
+- Date Added
 
 ## 📂 Project Structure
 
